@@ -8,4 +8,4 @@ Criado para o desafio de código de Git e Github.
 
 [Sintaxes Git](https://dzone.com/articles/top-20-git-commands-with-examples)
 
-[Download Git]([Git - Downloads](https://git-scm.com/downloads))
+[Git - Download](https://git-scm.com/downloads)
